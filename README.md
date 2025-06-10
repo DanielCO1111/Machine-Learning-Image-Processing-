@@ -42,7 +42,7 @@ In these two images, the top photo is clear (unblurred) and the bottom photo is 
 This simulates the difference between adult vision (sharp) and infant vision (blurred).
 You can see that the detection confidence scores (the numbers above each box) are lower in the blurred image, showing that the algorithm finds it harder to recognize objects when the image is blurry—just like it’s more difficult for infants to recognize objects due to their limited vision.
 
-
+----
 
 ![image](https://github.com/user-attachments/assets/9cd6e5e3-b0c6-45ef-9292-612c4b134261)
 
