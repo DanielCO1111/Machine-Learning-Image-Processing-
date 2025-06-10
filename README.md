@@ -33,12 +33,15 @@ The image shows the output of a YOLO object detection model, which has identifie
 
 ![image](https://github.com/user-attachments/assets/7bcb3088-160c-4081-bc9f-7b3b4e012a06)
 
+----
 
 ![image](https://github.com/user-attachments/assets/7f9d9ada-3135-4530-a81e-5a92d74a4e8a)
 
 ![image](https://github.com/user-attachments/assets/a5bfd3aa-389e-4651-ba29-02ae2bd48ab9)
 
-
+In these two images, the top photo is clear (unblurred) and the bottom photo is blurred before running the object detection algorithm.
+This simulates the difference between adult vision (sharp) and infant vision (blurred).
+You can see that the detection confidence scores (the numbers above each box) are lower in the blurred image, showing that the algorithm finds it harder to recognize objects when the image is blurry—just like it’s more difficult for infants to recognize objects due to their limited vision.
 
 
 
