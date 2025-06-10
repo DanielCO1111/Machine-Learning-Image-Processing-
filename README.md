@@ -25,6 +25,11 @@ Using Pandas and NumPy to compare visual behavior across different experimental 
 ### Automation:
 Scripts and notebooks for running the full pipeline in batch mode, supporting reproducibility for future experiments.
 
+
+### Visual Examples of the functionalities:
+---
+
+
 ![image](https://github.com/user-attachments/assets/7bcb3088-160c-4081-bc9f-7b3b4e012a06)
 
 
