@@ -30,7 +30,8 @@ Scripts and notebooks for running the full pipeline in batch mode, supporting re
 
 ![image](https://github.com/user-attachments/assets/7f9d9ada-3135-4530-a81e-5a92d74a4e8a)
 
-![image](https://github.com/user-attachments/assets/a64202dd-f35f-4a3d-be7e-d7d5870a3980)
+![image](https://github.com/user-attachments/assets/2340fd1a-53db-4c56-aeca-1473ed60fd7b)
+
 
 
 ![image](https://github.com/user-attachments/assets/9cd6e5e3-b0c6-45ef-9292-612c4b134261)
