@@ -1,6 +1,6 @@
 # Infant Visual Recognition Analysis
 
-## Image Processing & Machine Learning Pipeline with YOLO, Python, and Pandas
+## Image Processing & Machine Learning Pipeline with YOLO, Python, and Pandas.
 
 
 ## Overview
